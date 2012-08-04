@@ -1,0 +1,8 @@
+* name home_command
+* version 1.0
+* authur Ultimate
+
+# SEND_MESSAGE You teleport home.
+# TELEPORT_TO 3222 3222 0
+
+# end script

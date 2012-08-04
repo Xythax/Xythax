@@ -1,0 +1,35 @@
+<list>
+	<dialogue>
+		<idx>0</idx>
+		<type>NPC</type>
+		<npcId>100</npcId>
+		<line>
+			<string>"1"</string>
+			<string>"2"</string>
+			<string>"3"</string>
+			<string>"4"</string></line>
+		<emotion>0</emotion>
+	</dialogue>
+	<dialogue>
+		<idx>1</idx>
+		<type>NPC</type>
+		<npcId>2619</npcId>
+		<line>
+			<string>Welcome to the TzHaar Bank</string>
+			<string></string>
+			<string>TzHaar is recently been</string>
+			<string>developed on and will soon...</string></line>
+		<emotion>0</emotion>
+	</dialogue>
+	<dialogue>
+		<idx>2</idx>
+		<type>PLAYER</type>
+		<npcId>2619</npcId>
+		<line>
+			<string></string>
+			<string>Can i please open up my</string>
+			<string>bank account..?</string>
+			<string></string></line>
+		<emotion>0</emotion>
+	</dialogue>
+</list>

@@ -1,0 +1,37 @@
+<list>
+	<axe>
+		<axeId>1359</axeId>
+		<axeAnimation>867</axeAnimation>
+		<axeStrength>9</axeStrength>
+	</axe>
+	<axe>
+		<axeId>1357</axeId>
+		<axeAnimation>869</axeAnimation>
+		<axeStrength>7</axeStrength>
+	</axe>
+	<axe>
+		<axeId>1355</axeId>
+		<axeAnimation>871</axeAnimation>
+		<axeStrength>6</axeStrength>
+	</axe>
+	<axe>
+		<axeId>1361</axeId>
+		<axeAnimation>873</axeAnimation>
+		<axeStrength>5</axeStrength>
+	</axe>
+	<axe>
+		<axeId>1353</axeId>
+		<axeAnimation>875</axeAnimation>
+		<axeStrength>4</axeStrength>
+	</axe>
+	<axe>
+		<axeId>1349</axeId>
+		<axeAnimation>877</axeAnimation>
+		<axeStrength>3</axeStrength>
+	</axe>
+	<axe>
+		<axeId>1351</axeId>
+		<axeAnimation>879</axeAnimation>
+		<axeStrength>2</axeStrength>
+	</axe>			
+</list>

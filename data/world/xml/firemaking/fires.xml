@@ -1,0 +1,28 @@
+<list>
+	<fire>
+		<logType>882</logType>//reg
+		<animationType>19</animationType>
+		<groundObject>10</groundObject>
+		<burnTime>7</burnTime>
+		<levelRequired>2</levelRequired>
+		<experience>7</experience>
+	</fire>
+
+	<fire>
+		<logType>882</logType>
+		<animationType>19</animationType>
+		<groundObject>10</groundObject>
+		<burnTime>7</burnTime>
+		<levelRequired>2</levelRequired>
+		<experience>7</experience>
+	</fire>
+
+	<fire>
+		<logType>882</logType>
+		<animationType>19</animationType>
+		<groundObject>10</groundObject>
+		<burnTime>7</burnTime>
+		<levelRequired>2</levelRequired>
+		<experience>7</experience>
+	</fire>
+</list>
